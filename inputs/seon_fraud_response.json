@@ -1,0 +1,568 @@
+{
+    "success": true,
+    "error": {},
+    "data": {
+        "id": "67c2810c2de1",
+        "state": "DECLINE",
+        "fraud_score": 95.75,
+        "blackbox_score": 93.25,
+        "bin_details": {
+            "card_bin": "414141",
+            "bin_bank": "VERMONT NATIONAL BANK",
+            "bin_card": "VISA",
+            "bin_type": "CREDIT",
+            "bin_level": "CLASSIC",
+            "bin_country": "UNITED STATES",
+            "bin_country_code": "US",
+            "bin_website": "www.vermontnationalbank.com",
+            "bin_phone": "+1 802 476 0030",
+            "bin_valid": true,
+            "card_issuer": "VISA"
+        },
+        "version": "v2",
+        "applied_rules": [
+            {
+                "id": "1000702",
+                "name": "Phone possible is equal to true",
+                "operation": "+",
+                "score": 1.11
+            },
+            {
+                "id": "1000682",
+                "name": "has_pep_match is not listed on watchlist2",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "P106",
+                "name": "Customer is using a datacenter ISP",
+                "operation": "+",
+                "score": 10.0
+            },
+            {
+                "id": "1000715",
+                "name": "Temp ARC 2 category specific rule",
+                "operation": null,
+                "score": 0.0
+            },
+            {
+                "id": "P110",
+                "name": "IP address was found on 4 spam blacklists",
+                "operation": "+",
+                "score": 4.0
+            },
+            {
+                "id": "1000671",
+                "name": "has_sanction_match is equal to true",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000687",
+                "name": "has_sanction_match is not listed on watchlist2",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000707",
+                "name": "Rule C (User category is equal to VIP)",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000718",
+                "name": "Domain creation date is greater than 1 month ago",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000670",
+                "name": "has_watchlist_match is equal to false",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000696",
+                "name": "Phone number valid is equal to true",
+                "operation": "+",
+                "score": 1.11
+            },
+            {
+                "id": "P112",
+                "name": "Customer is using public proxy",
+                "operation": "+",
+                "score": 10.0
+            },
+            {
+                "id": "1000716",
+                "name": "Temp ARC 2",
+                "operation": "+",
+                "score": 30.0
+            },
+            {
+                "id": "1000713",
+                "name": "Temp ARC category specific rule",
+                "operation": null,
+                "score": 0.0
+            },
+            {
+                "id": "1000699",
+                "name": "Phone country is equal to HU",
+                "operation": "+",
+                "score": 1.11
+            },
+            {
+                "id": "E123",
+                "name": "Email is not similar to user full name",
+                "operation": "+",
+                "score": 1.0
+            },
+            {
+                "id": "1000674",
+                "name": "Free email is equal to true",
+                "operation": "+",
+                "score": 1.11
+            },
+            {
+                "id": "1000680",
+                "name": "has_crimelist_match is not listed on watchlist2",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "PH100",
+                "name": "At least 2 online profiles were found",
+                "operation": "+",
+                "score": 5.2
+            },
+            {
+                "id": "1000666",
+                "name": "has_crimelist_match is equal to false",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000706",
+                "name": "Rule B (Affiliate full name is equal to Affiliate Two)",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000692",
+                "name": "Sanction list match is equal to true",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000705",
+                "name": "Rule A (Affiliate ID is equal to a002)",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000685",
+                "name": "has_watchlist_match is not listed on watchlist2",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000698",
+                "name": "Phone type is equal to Mobile",
+                "operation": "+",
+                "score": 1.11
+            },
+            {
+                "id": "1000668",
+                "name": "has_pep_match is equal to false",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000708",
+                "name": "Rule D (User account status is equal to verified)",
+                "operation": "+",
+                "score": 0.0
+            },
+            {
+                "id": "1000714",
+                "name": "ARC User full name is equal to User full name",
+                "operation": "+",
+                "score": 30.0
+            },
+            {
+                "id": "1000647",
+                "name": "Count if Previous Email address similarity is equal to SIMILAR Email for the same Email domain is greater than 0",
+                "operation": "+",
+                "score": 0.0
+            }
+        ],
+        "device_details": {
+            "os": "MacOS",
+            "type": "web",
+            "dns_ip": null,
+            "source": "js-5.8.0",
+            "adblock": true,
+            "browser": "FIREFOX10",
+            "private": true,
+            "platform": "MacIntel",
+            "font_hash": "09894f345df34ce7ca5b86118ca1bec4",
+            "font_list": [],
+            "audio_hash": "35.73833039775491",
+            "dns_ip_isp": null,
+            "font_count": 13,
+            "session_id": "90a87abb-91bc-5dc2-96f2-996acb894dd9",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0",
+            "webgl_hash": null,
+            "webrtc_ips": [ "70.111.37.513", "0.0.0.0"
+            ],
+            "canvas_hash": "b1f0e02120278dbf75e77cb92980648d",
+            "cookie_hash": "b29b21a6ba46b2770bb1737fd6c06c7d",
+            "device_hash": "73604e79a0321f57249e82e27273a7a0",
+            "device_type": "desktop",
+            "plugin_hash": "29b51cf1619fb6943f256c2c6da59432",
+            "plugin_list": [
+                "PDF Viewer",
+                "Chrome PDF Viewer",
+                "Chromium PDF Viewer",
+                "Microsoft Edge PDF Viewer",
+                "WebKit built-in PDF"
+            ],
+            "window_size": "1600x800",
+            "browser_hash": "4c58b2c53ea7489232cddeb897efaf7a",
+            "do_not_track": null,
+            "java_enabled": false,
+            "plugin_count": 5,
+            "webgl_vendor": null,
+            "webrtc_count": 2,
+            "battery_level": 44,
+            "device_ip_isp": null,
+            "device_memory": null,
+            "flash_enabled": false,
+            "social_logins": [],
+            "touch_support": false,
+            "cookie_enabled": true,
+            "dns_ip_country": "HU",
+            "accept_language": [],
+            "browser_version": "102.0",
+            "device_location": {
+                "zip": "1051",
+                "city": "Budapest",
+                "region": "HU-BU",
+                "status": "SUCCESS",
+                "accuracy": 5,
+                "latitude": 47.4810949,
+                "longitude": 18.9651553,
+                "country_code": "HU"
+            },
+            "region_language": "en-US",
+            "region_timezone": "+00:00",
+            "battery_charging": null,
+            "webrtc_activated": true,
+            "device_ip_address": "15.130.507.00",
+            "device_ip_country": "HU",
+            "screen_resolution": "1600x800",
+            "screen_color_depth": 24,
+            "screen_pixel_ratio": 1,
+            "hardware_concurrency": 2,
+            "screen_available_resolution": "1600x800"
+        },
+        "calculation_time": 2327,
+        "seon_id": 12602,
+        "ip_details": {
+            "ip": "1.2.3.4",
+            "score": 24.0,
+            "country": "AU",
+            "state_prov": "Queensland",
+            "city": "Brisbane",
+            "timezone_offset": "+10:00",
+            "isp_name": "APNIC Pty Ltd",
+            "latitude": -27.48203,
+            "longitude": 153.01358,
+            "type": "DCH",
+            "open_ports": [],
+            "tor": false,
+            "vpn": false,
+            "provider_name": null,
+            "web_proxy": false,
+            "public_proxy": true,
+            "spam_number": 4,
+            "spam_urls": [
+                "zen.spamhaus.org",
+                "xbl.spamhaus.org",
+                "noptr.spamrats.com",
+                "dyna.spamrats.com"
+            ]
+        },
+        "email_details": {
+            "id": "9db22845-6a2d-4626-a453-231d63585379",
+            "email": "johndoe@seon.io",
+            "risk_scores": {
+                "global_network_score": 11.26
+            },
+            "email_details": {
+                "deliverable": true,
+                "full_inbox": false,
+                "valid_format": true,
+                "minimum_age_months": 200,
+                "earliest_profile_date": "2008-07-01 00:00:00"
+            },
+            "email_domain_details": {
+                "accept_all": false,
+                "created": "2015-03-20 12:42:37",
+                "custom": true,
+                "disposable": false,
+                "dmarc_enforced": true,
+                "domain": "seon.io",
+                "expires": "2025-03-20 12:42:37",
+                "free": false,
+                "registered": true,
+                "registered_to": "Seon Ltd.",
+                "registrar_name": "NameCheap, Inc.",
+                "spf_strict": true,
+                "suspicious_tld": false,
+                "tld": "io",
+                "updated": "2024-02-24 08:11:02",
+                "valid_mx": true,
+                "website_exists": true
+            },
+            "account_aggregates": {
+                "total_registration": 39,
+                "business": {
+                    "total_registration": 14,
+                    "technology": {
+                        "registered": 11,
+                        "checked": 34
+                    },
+                    "science_and_education": {
+                        "registered": 2,
+                        "checked": 7
+                    },
+                    "jobs_and_employment": {
+                        "registered": 1,
+                        "checked": 4
+                    },
+                    "money_transfer_remittance": {
+                        "registered": 0,
+                        "checked": 2
+                    }
+                },
+                "personal": {
+                    "total_registration": 25,
+                    "email_service": {
+                        "registered": 2,
+                        "checked": 6
+                    },
+                    "technology": {
+                        "registered": 2,
+                        "checked": 7
+                    },
+                    "adult_sites": {
+                        "registered": 0,
+                        "checked": 2
+                    },
+                    "delivery": {
+                        "registered": 0,
+                        "checked": 2
+                    },
+                    "ecommerce": {
+                        "registered": 3,
+                        "checked": 16
+                    },
+                    "entertainment": {
+                        "registered": 7,
+                        "checked": 28
+                    },
+                    "health_and_fitness": {
+                        "registered": 2,
+                        "checked": 4
+                    },
+                    "social_media": {
+                        "registered": 8,
+                        "checked": 21
+                    },
+                    "travel": {
+                        "registered": 1,
+                        "checked": 7
+                    }
+                }
+            },
+            "seon_fraud_history": {
+                "fraudulent_decline_first_seen": 1625384237,
+                "fraudulent_decline_last_seen": 1713949826,
+                "fraudulent_decline_customer_hits": 2,
+                "fraudulent_decline_hits": 2,
+                "first_seen": 1584887689,
+                "last_seen": 1713949826,
+                "customer_hits": 4,
+                "hits": 9,
+                "flags": []
+            },
+            "breach_details": {
+                "breaches": [
+                    {
+                        "date": "2018-07-23",
+                        "domain": "apollo.io",
+                        "name": "Apollo"
+                    },
+                    {
+                        "date": "2019-05-24",
+                        "domain": "canva.com",
+                        "name": "Canva"
+                    },
+                    {
+                        "date": "2020-09-28",
+                        "domain": "gonitro.com",
+                        "name": "Nitro"
+                    },
+                    {
+                        "date": "2021-08-01",
+                        "domain": "opensubtitles.org",
+                        "name": "Open Subtitles"
+                    },
+                    {
+                        "date": "2018-12-13",
+                        "domain": "wanelo.com",
+                        "name": "Wanelo"
+                    }
+                ],
+                "first_breach": "2018-07-23",
+                "haveibeenpwned_listed": true,
+                "number_of_breaches": 5
+            },
+            "associated_domain_registrations": {
+                "exists": true,
+                "number_of_domains": 1,
+                "domains": [
+                    {
+                        "domain_name": "thisisasampledomain.com",
+                        "create_date": "2015-08-07 00:00:00",
+                        "update_date": "2015-08-07 00:00:00",
+                        "expiry_date": "2016-08-07 00:00:00",
+                        "registrar_name": "GoDaddy.com, LLC",
+                        "full_name": "John Doe",
+                        "company_name": "JD Enterprises Ltd",
+                        "mailing_address": "472, Doejohn Street",
+                        "city_name": "JD City",
+                        "state_name": "N/A",
+                        "zip_code": "JD1234",
+                        "country_code": "JD",
+                        "phone_number": "1234556789"
+                    }
+                ],
+                "first_registration_date": "2015-08-07 00:00:00"
+            }
+        },
+        "phone_details": {
+            "id": "9c02924f-9fa0-432c-9f0b-9a12873870b7",
+            "phone": 36301234567,
+            "risk_scores": {
+                "global_network_score": 67.62
+            },
+            "account_aggregates": {
+                "total_registration": 12,
+                "business": {
+                    "total_registration": 5,
+                    "technology": {
+                        "registered": 2,
+                        "checked": 1
+                    },
+                    "science_and_education": {
+                        "registered": 0,
+                        "checked": 1
+                    },
+                    "jobs_and_employment": {
+                        "registered": 1,
+                        "checked": 0
+                    },
+                    "money_transfer_remittance": {
+                        "registered": 2,
+                        "checked": 4
+                    }
+                },
+                "personal": {
+                    "total_registration": 7,
+                    "email_service": {
+                        "registered": 1,
+                        "checked": 1
+                    },
+                    "messenger": {
+                        "registered": 1,
+                        "checked": 3
+                    },
+                    "technology": {
+                        "registered": 0,
+                        "checked": 3
+                    },
+                    "delivery": {
+                        "registered": 1,
+                        "checked": 1
+                    },
+                    "ecommerce": {
+                        "registered": 2,
+                        "checked": 6
+                    },
+                    "entertainment": {
+                        "registered": 0,
+                        "checked": 3
+                    },
+                    "social_media": {
+                        "registered": 1,
+                        "checked": 9
+                    },
+                    "travel": {
+                        "registered": 1,
+                        "checked": 1
+                    }
+                }
+            },
+            "seon_fraud_history": {
+                "fraudulent_decline_first_seen": 1625384237,
+                "fraudulent_decline_last_seen": 1713949826,
+                "fraudulent_decline_customer_hits": 2,
+                "fraudulent_decline_hits": 2,
+                "first_seen": 1584887689,
+                "last_seen": 1713949826,
+                "customer_hits": 4,
+                "hits": 9,
+                "flags": []
+            },
+            "provider_carrier_details": {
+                "carrier": "Verizon Ltd",
+                "country": "US",
+                "disposable": false,
+                "phone_is_valid": true,
+                "type": "MOBILE"
+            },
+            "hlr_details": {
+                "imsi": "316000000000000",
+                "original_carrier": {
+                    "carrier": "Verizon Wireless",
+                    "carrier_prefix": "212333"
+                },
+                "ported_carrier": {
+                    "carrier": "USA - Landline and Other Carriers",
+                    "carrier_prefix": "252271"
+                },
+                "roaming_carrier": {
+                    "carrier": null,
+                    "carrier_prefix": null,
+                    "carrier_country": null
+                },
+                "serving_msc": null,
+                "status": "delivered"
+            },
+            "cnam_details": {
+                "name": "John Doe"
+            }
+        },
+        "geolocation_details": {
+            "user_billing_distance": 15265.747,
+            "user_shipping_distance": 15162.088,
+            "billing_shipping_distance": 7677.429,
+            "ip_user_distance": 10210.516,
+            "ip_billing_distance": 12056.986,
+            "ip_shipping_distance": 5019.496
+        },
+        "aml_details": null
+    }
+}
