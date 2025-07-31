@@ -1,0 +1,668 @@
+{
+    "data": {
+      "ppr": "authorized",
+      "auth": true,
+      "data": {
+        "stocks": {},
+        "inquiries": [
+          {
+            "inquiry_count": [
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 7
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 6
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 5
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 4
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 3
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 2
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 1
+              },
+              {
+                "year": 2022,
+                "count": 1,
+                "month": 12
+              },
+              {
+                "year": 2022,
+                "count": 0,
+                "month": 11
+              }
+            ],
+            "inquiry_business_category": "DISPOSAL"
+          },
+          {
+            "inquiry_count": [
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 7
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 6
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 5
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 4
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 3
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 2
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 1
+              },
+              {
+                "year": 2022,
+                "count": 0,
+                "month": 12
+              },
+              {
+                "year": 2022,
+                "count": 0,
+                "month": 11
+              }
+            ],
+            "inquiry_business_category": "INSURANCE"
+          },
+          {
+            "inquiry_count": [
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 7
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 6
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 5
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 4
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 3
+              },
+              {
+                "year": 2023,
+                "count": 0,
+                "month": 2
+              },
+              {
+                "year": 2023,
+                "count": 1,
+                "month": 1
+              },
+              {
+                "year": 2022,
+                "count": 1,
+                "month": 12
+              },
+              {
+                "year": 2022,
+                "count": 0,
+                "month": 11
+              }
+            ],
+            "inquiry_business_category": "TOTALS"
+          }
+        ],
+        "sic_codes": [
+          {}
+        ],
+        "competitors": [],
+        "naics_codes": [
+          {}
+        ],
+        "bond_details": [],
+        "fortune_1000": null,
+        "business_facts": {
+          "business_type": "Corporation",
+          "employee_size": 8,
+          "sales_revenue": 1101000,
+          "sales_size_code": "C",
+          "public_indicator": false,
+          "employee_size_code": "B",
+          "non_profit_indicator": false,
+          "date_of_incorporation": "2017-12-15",
+          "file_established_date": "2018-07-01",
+          "file_established_flag": {},
+          "state_of_incorporation": "MI",
+          "years_in_business_indicator": {
+            "code": "A",
+            "definition": "Under 1 Year"
+          }
+        },
+        "payment_totals": {
+          "tradelines": {
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "number_of_lines": 2,
+            "current_percentage": 100,
+            "total_account_balance": {
+              "amount": 500
+            },
+            "total_high_credit_amount": {
+              "amount": 42300
+            }
+          },
+          "combined_tradelines": {
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "number_of_lines": 1,
+            "total_account_balance": {},
+            "total_high_credit_amount": {}
+          },
+          "additional_tradelines": {
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "number_of_lines": 1,
+            "current_percentage": 100,
+            "total_account_balance": {
+              "amount": 500
+            },
+            "total_high_credit_amount": {
+              "amount": 42300
+            }
+          },
+          "newly_reported_tradelines": {
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "total_account_balance": {},
+            "total_high_credit_amount": {}
+          },
+          "continuously_reported_tradelines": {
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "number_of_lines": 1,
+            "total_account_balance": {},
+            "total_high_credit_amount": {}
+          }
+        },
+        "stock_exchange": null,
+        "ucc_co_debtors": [],
+        "business_header": {
+          "bin": "510012310",
+          "phone": "+12487561489",
+          "address": {
+            "zip": "48009",
+            "city": "BIRMINGHAM",
+            "state": "MI",
+            "street": "2075 E 14 MILE RD",
+            "zip_extension": "7279"
+          },
+          "dba_names": [
+            "QUALITY ROOTS BERKLEY"
+          ],
+          "business_name": "QUALITY ROOTS, INC",
+          "branch_location": {},
+          "foreign_country": false,
+          "legal_business_name": "QUALITY ROOTS, INC.",
+          "matching_branch_address": {},
+          "customer_dispute_indicator": false,
+          "corporate_linkage_indicator": false
+        },
+        "judgment_detail": [],
+        "license_details": [],
+        "tax_lien_detail": [],
+        "bankruptcy_detail": [],
+        "corporate_linkage": [],
+        "executive_summary": {
+          "business_dbt": {},
+          "common_terms": {},
+          "payment_trend_indicator": {},
+          "industry_payment_comparison": {}
+        },
+        "insurance_details": [],
+        "score_information": {
+          "fsr_score": {
+            "score": 65,
+            "model_code": "000223",
+            "risk_class": {
+              "code": 2,
+              "definition": "LOW TO MEDIUM RISK"
+            },
+            "model_title": "FINANCIAL STABILITY RISK",
+            "profile_number": "I220491346",
+            "limited_profile": false,
+            "percentile_ranking": 64,
+            "publicly_held_company": false,
+            "customer_dispute_indicator": false
+          },
+          "commercial_score": {
+            "score": 61,
+            "model_code": "000224",
+            "risk_class": {
+              "code": 2,
+              "definition": "LOW TO MEDIUM RISK"
+            },
+            "model_title": "INTELLISCORE PLUS V2",
+            "profile_number": "I220491346",
+            "limited_profile": false,
+            "custom_model_code": "03",
+            "percentile_ranking": 60,
+            "publicly_held_company": false,
+            "customer_dispute_indicator": false,
+            "recommended_credit_limit_amount": 3800
+          },
+          "fsr_score_trends": [
+            {
+              "score": 57,
+              "quarter": "APR-JUN"
+            },
+            {
+              "score": 70,
+              "quarter": "JAN-MAR"
+            },
+            {
+              "score": 67,
+              "quarter": "OCT-DEC"
+            },
+            {
+              "score": 57,
+              "quarter": "JUL-SEP"
+            }
+          ],
+          "fsr_score_factors": [
+            {
+              "code": "009",
+              "definition": "NUMBER OF ACTIVE COMMERCIAL ACCOUNTS"
+            },
+            {
+              "code": "004",
+              "definition": "RISK ASSOCIATED WITH THE COMPANY'S INDUSTRY SECTOR"
+            },
+            {
+              "code": "002",
+              "definition": "RISK ASSOCIATED WITH THE BUSINESS TYPE"
+            },
+            {
+              "code": "003",
+              "definition": "EMPLOYEE SIZE OF BUSINESS"
+            }
+          ],
+          "commercial_score_trends": [
+            {
+              "score": 59,
+              "quarter": "APR-JUN"
+            },
+            {
+              "score": 65,
+              "quarter": "JAN-MAR"
+            },
+            {
+              "score": 64,
+              "quarter": "OCT-DEC"
+            },
+            {
+              "score": 59,
+              "quarter": "JUL-SEP"
+            }
+          ],
+          "commercial_score_factors": [
+            {
+              "code": "055",
+              "definition": "NUMBER OF COMMERCIAL ACCOUNTS WITH NET 1-30 DAYS TERM"
+            },
+            {
+              "code": "001",
+              "definition": "NBR OF ACTIVE COMMERCIAL ACCTS WITHIN THE LAST 12 MOS"
+            },
+            {
+              "code": "002",
+              "definition": "NUMBER OF RECENTLY ACTIVE COMMERCIAL ACCOUNTS"
+            },
+            {
+              "code": "023",
+              "definition": "BALANCE OF COMMERCIAL ACCOUNTS RECENTLY REPORTED"
+            }
+          ]
+        },
+        "collections_detail": [],
+        "consumer_statement": [],
+        "economic_diversity": {
+          "sba_8_a_indicator": false,
+          "hub_zone_indicator": false,
+          "women_owned_indicator": false,
+          "disadvantaged_indicator": false,
+          "sba_certified_indicator": false,
+          "veteran_owned_indicator": false,
+          "minority_owned_indicator": false,
+          "disabled_veteran_owned_indicator": false,
+          "historical_black_college_and_universities_indicator": false
+        },
+        "ucc_filings_detail": [
+          {
+            "date_filed": "2022-09-08",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "FILED",
+            "secured_party": "APG BERKLEY  LLC IL CHICAGO 60606 C/O AVENTINE PROPERTY GROU",
+            "document_number": "202209080006678",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "customer_dispute_indicator": false
+          },
+          {
+            "date_filed": "2022-09-08",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "FILED",
+            "secured_party": "APG CORUNNA  LLC IL CHICAGO 60606 C/O AVENTINE PROPERTY GROU",
+            "document_number": "202209080006696",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "customer_dispute_indicator": false
+          },
+          {
+            "date_filed": "2022-09-08",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "FILED",
+            "secured_party": "APG WATERFORD  LLC IL CHICAGO 60606 C/O AVENTINE PROPERTY GR",
+            "document_number": "202209080006863",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "customer_dispute_indicator": false
+          },
+          {
+            "date_filed": "2023-03-02",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "AMENDED",
+            "document_number": "202303020012795",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "original_ucc_filings_info": {
+              "date_filed": "2022-09-08",
+              "filing_state": "MI",
+              "legal_action": "AMENDED",
+              "document_number": "2022090800"
+            },
+            "customer_dispute_indicator": false
+          },
+          {
+            "date_filed": "2023-03-03",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "TERMINATED",
+            "document_number": "202303030008852",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "original_ucc_filings_info": {
+              "date_filed": "2022-09-08",
+              "filing_state": "MI",
+              "legal_action": "TERMINATED",
+              "document_number": "2022090800"
+            },
+            "customer_dispute_indicator": false
+          },
+          {
+            "date_filed": "2022-03-28",
+            "legal_type": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+            "legal_action": "FILED",
+            "secured_party": "APG WESTLAND  LLC IL CHICAGO 60606 111 SOUTH WACKER DRIVE  S",
+            "document_number": "202203280006313",
+            "filing_location": "SEC OF STATE MI",
+            "collateral_codes": [],
+            "customer_dispute_indicator": false
+          }
+        ],
+        "government_activity": {},
+        "leasing_information": [],
+        "ucc_filings_summary": {
+          "ucc_filings_count": 6,
+          "ucc_filings_trends": [
+            {
+              "date": "2023-07-01",
+              "count": 0,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 0,
+              "releases_and_terminations_count": 0
+            },
+            {
+              "date": "2023-01-01",
+              "count": 0,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 0,
+              "releases_and_terminations_count": 0
+            },
+            {
+              "date": "2022-07-01",
+              "count": 3,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 1,
+              "releases_and_terminations_count": 1
+            },
+            {
+              "date": "2022-01-01",
+              "count": 1,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 0,
+              "releases_and_terminations_count": 0
+            },
+            {
+              "date": "2021-07-01",
+              "count": 0,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 0,
+              "releases_and_terminations_count": 0
+            },
+            {
+              "date": "2021-07-01",
+              "count": 0,
+              "derogatory_count": 0,
+              "continuations_count": 0,
+              "amended_and_assigned_count": 0,
+              "releases_and_terminations_count": 0
+            }
+          ]
+        },
+        "executive_information": [],
+        "corporate_registration": {
+          "agent_name": "ARIC KLAR",
+          "profit_flag": "Profit",
+          "status_flag": {
+            "code": "A",
+            "definition": "Active"
+          },
+          "agent_address": {
+            "city": "BIRMINGHAM",
+            "state": "MI",
+            "street": "2075 EAST 14 MILE ROAD"
+          },
+          "business_type": "Not Available",
+          "charter_number": "802141528",
+          "state_of_origin": "MI",
+          "incorporated_date": "2017-12-15",
+          "domestic_foreign_indicator": "D"
+        },
+        "monthly_payment_trends": null,
+        "expanded_credit_summary": {
+          "current_dbt": 0,
+          "ucc_filings": 4,
+          "oldest_ucc_date": "2022-03-28",
+          "judgment_indicator": false,
+          "ofac_match_warning": {
+            "code": "N",
+            "definition": "This business did not match to OFAC"
+          },
+          "tax_lien_indicator": false,
+          "all_tradeline_count": 2,
+          "monthly_average_dbt": 0,
+          "bankruptcy_indicator": false,
+          "highest_dbt_6_months": 0,
+          "most_recent_ucc_date": "2022-09-08",
+          "all_tradeline_balance": 500,
+          "active_tradeline_count": 1,
+          "highest_dbt_5_quarters": 0,
+          "trade_collection_count": 2,
+          "current_tradeline_count": 1,
+          "trade_collection_balance": 5,
+          "victim_statement_indicator": false,
+          "commercial_fraud_risk_indicator_count": 0
+        },
+        "industry_payment_trends": null,
+        "contract_spending_detail": [],
+        "quarterly_payment_trends": null,
+        "contract_spending_summary": null,
+        "trade_payment_experiences": [
+          {
+            "terms": "NET 30",
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "comments": "CUST  3 YR",
+            "dbt_91_plus": 0,
+            "date_reported": "2023-07-01",
+            "tradeline_flag": {
+              "definition": " "
+            },
+            "account_balance": {
+              "amount": 0,
+              "modifier": "Not applicable"
+            },
+            "business_category": "PACKAGING",
+            "payment_indicator": {
+              "code": " ",
+              "definition": "No Indicator"
+            },
+            "current_percentage": 0,
+            "recent_high_credit": {
+              "amount": 0,
+              "modifier": "Not applicable"
+            },
+            "newly_reported_indicator": {
+              "code": " ",
+              "definition": "Not Available"
+            }
+          }
+        ],
+        "commercial_bank_information": [],
+        "proprietor_name_and_address": [],
+        "enhanced_business_description": null,
+        "additional_payment_experiences": [
+          {
+            "terms": "REVOLVE",
+            "dbt_30": 0,
+            "dbt_60": 0,
+            "dbt_90": 0,
+            "dbt_91_plus": 0,
+            "date_reported": "2023-06-01",
+            "tradeline_flag": {
+              "definition": " "
+            },
+            "account_balance": {
+              "amount": 500,
+              "modifier": "Not applicable"
+            },
+            "business_category": "BANK CARD",
+            "payment_indicator": {
+              "code": " ",
+              "definition": "No Indicator"
+            },
+            "current_percentage": 100,
+            "recent_high_credit": {
+              "amount": 42300,
+              "modifier": "Not applicable"
+            },
+            "newly_reported_indicator": {
+              "code": " ",
+              "definition": "Not Available"
+            }
+          }
+        ],
+        "commercial_fraud_shield_summary": {
+          "ofac_match_warning": {
+            "code": 1,
+            "definition": "No Match Found"
+          },
+          "active_business_indicator": true,
+          "matching_business_indicator": "Primary Business",
+          "business_risk_triggers_indicator": false,
+          "business_risk_triggers_statement": [],
+          "business_victim_statement_indicator": false,
+          "name_address_verification_indicator": true
+        },
+        "corporate_financial_information": {
+          "balance_sheets": [],
+          "operating_statements": [],
+          "critical_data_and_financial_ratios": []
+        },
+        "commercial_government_entity_code": null
+      },
+      "detail": null,
+      "result": "success",
+      "provider_request_id": "0da36092-4d7d-4ee3-9835-253669a94025",
+      "creation_timestamp_utc": "2023-07-17T20:18:25.182294"
+    },
+    "meta": {
+      "id": "d0c51254-e7ad-4adf-89e8-5dfe7fdb7e95::99ce3c23a9d414ae2edf113ecd054976fe794bc0e7bde36ff3de7411a2734394",
+      "from_cache": true,
+      "creation_timestamp_utc": "2023-07-17T20:18:25.182294"
+    },
+    "insights": {
+      "provider_entity_id": null,
+      "retrieval_datetime": "2023-07-17T20:18:25.182294",
+      "provider_request_id": "0da36092-4d7d-4ee3-9835-253669a94025"
+    }
+  }
